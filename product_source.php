@@ -3,7 +3,7 @@
 Plugin Name: Product Source Column for WooCommerce
 Plugin URI: https:/github.com/yoscibacco/product-source
 Description: Adds a "Source" column to the WooCommerce products list to display the product's source.
-Version: 0.1
+Version: 0.1.1
 Author: Can Bacco
 Author URI: https:/github.com/yoscibacco/
 Update URI: https:/github.com/yoscibacco/product-source
